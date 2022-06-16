@@ -1,0 +1,7 @@
+{
+    "name": "amanspackages/foopackage",
+    "description": "This is a sample package to have an understanding of packagists",
+    "require": {
+        "php": ">=7.4"
+    }
+}
